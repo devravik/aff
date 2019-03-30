@@ -641,7 +641,12 @@
         "www.paytmmall.com",
         "nnnow.com",
         "www.nnnow.com",
-        "in.bookmyshow.com"
+        "in.bookmyshow.com",
+        "imageresult.com",
+        "drip.com",
+        "www.drip.com",
+        "leadpages.net",
+        "www.leadpages.net"
     ],
     "query_strings": [
         "affid=rk822827g",
@@ -1285,6 +1290,11 @@
         "",
         "",
         "",
+        "",
+        "",
+        "",
+        "",
+        "",
         ""
     ],
     "replace_domain": {
@@ -1383,8 +1393,8 @@
         "fiverr.com": "http://track.fiverr.com/visit/?bta=21826&brand=fiverrcpa",
         "www.agoda.com": "https://linksredirect.com/?pub_id=25863CL23297&source=linkkit&url=https%3A%2F%2Fwww.agoda.com%2F",
         "agoda.com": "https://linksredirect.com/?pub_id=25863CL23297&source=linkkit&url=https%3A%2F%2Fwww.agoda.com%2F",
-        "pluralsight.com": "http://pluralsight.pxf.io/c/1218646/424552/7490",
-        "www.pluralsight.com": "http://pluralsight.pxf.io/c/1218646/424552/7490",
+        "pluralsight.com": "http://pluralsight.pxf.io/LWVRY",
+        "www.pluralsight.com": "http://pluralsight.pxf.io/LWVRY",
         "rfq.alibaba.com": "https://rfq.alibaba.com/rfq/post.htm?activityCode=HRRKN&activityScene=old_new_buyer&tracelog=refer_link",
         "in.udacity.com": "http://refer.udacity.com/raviuvz-1vy",
         "udacity.com": "http://refer.udacity.com/raviuvz-1vy",
@@ -1411,6 +1421,23 @@
         "www.nnnow.com": "https://linksredirect.com/?pub_id=25863CL23297&source=linkkit&url=https%3A%2F%2Fwww.nnnow.com%2F",
         "myntra.com": "https://linksredirect.com/?pub_id=25863CL23297&source=linkkit&url=https%3A%2F%2Fwww.myntra.com%2F",
         "www.myntra.com": "https://linksredirect.com/?pub_id=25863CL23297&source=linkkit&url=https%3A%2F%2Fwww.myntra.com%2F",
-        "in.bookmyshow.com": "https://linksredirect.com/?pub_id=25863CL23297&source=linkkit&url=https%3A%2F%2Fin.bookmyshow.com%2F"
+        "in.bookmyshow.com": "https://linksredirect.com/?pub_id=25863CL23297&source=linkkit&url=https%3A%2F%2Fin.bookmyshow.com%2F",
+        "imageresult.com":"https://imageresult.7eer.net/dOzZQ",
+        "cyberghostvpn.com":"https://cyberghost.sjv.io/6Bqm",
+        "www.cyberghostvpn.com":"https://cyberghost.sjv.io/6Bqm",
+        "drip.com":"https://drip.pxf.io/yB042",
+        "www.drip.com":"https://drip.pxf.io/yB042",
+        "www.gravityforms.com":"https://rocketgenius.pxf.io/MWJRK",
+        "gravityforms.com":"https://rocketgenius.pxf.io/MWJRK",
+        "www.guitar-book.com":"https://guitarebooks.sjv.io/m0AoX",
+        "guitar-book.com":"https://guitarebooks.sjv.io/m0AoX",
+        "leadpages.net":"https://leadpages.pxf.io/QWo2A",
+        "www.leadpages.net":"https://leadpages.pxf.io/QWo2A",
+        "liquidweb.com":"https://liquidweb.evyy.net/jBkJ5",
+        "www.liquidweb.com":"https://liquidweb.evyy.net/jBkJ5",
+        "simplilearn.com":"simplilearn.sjv.io/QWo23",
+        "www.simplilearn.com":"simplilearn.sjv.io/QWo23",
+        "varsitytutors.com":"varsitytutors.pxf.io/5x61N",
+        "www.varsitytutors.com":"varsitytutors.pxf.io/5x61N"
     }
 }
