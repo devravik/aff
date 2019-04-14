@@ -646,7 +646,11 @@
         "drip.com",
         "www.drip.com",
         "leadpages.net",
-        "www.leadpages.net"
+        "www.leadpages.net",
+        "carolsdaughter.com",
+        "www.carolsdaughter.com",
+        "cottonon.com",
+        "www.cottonon.com"
     ],
     "query_strings": [
         "affid=rk822827g",
@@ -1295,6 +1299,10 @@
         "",
         "",
         "",
+        "",
+        "",
+        "",
+        "",
         ""
     ],
     "replace_domain": {
@@ -1438,6 +1446,10 @@
         "simplilearn.com":"https://simplilearn.sjv.io/QWo23",
         "www.simplilearn.com":"https://simplilearn.sjv.io/QWo23",
         "varsitytutors.com":"https://varsitytutors.pxf.io/5x61N",
-        "www.varsitytutors.com":"https://varsitytutors.pxf.io/5x61N"
+        "www.varsitytutors.com":"https://varsitytutors.pxf.io/5x61N",
+        "carolsdaughter.com":"https://clnk.in/ihRD",
+        "www.carolsdaughter.com":"https://clnk.in/ihRD",
+        "cottonon.com":"https://clnk.in/ihRE",
+        "www.cottonon.com":"https://clnk.in/ihRE"
     }
 }
