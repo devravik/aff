@@ -650,7 +650,9 @@
         "carolsdaughter.com",
         "www.carolsdaughter.com",
         "cottonon.com",
-        "www.cottonon.com"
+        "www.cottonon.com",
+        "www.oneplus.in",
+        "oneplus.in"
     ],
     "query_strings": [
         "affid=rk822827g",
@@ -1303,6 +1305,8 @@
         "",
         "",
         "",
+        "",
+        "",
         ""
     ],
     "replace_domain": {
@@ -1448,6 +1452,8 @@
         "carolsdaughter.com":"https://clnk.in/ihRD",
         "www.carolsdaughter.com":"https://clnk.in/ihRD",
         "cottonon.com":"https://clnk.in/ihRE",
-        "www.cottonon.com":"https://clnk.in/ihRE"
+        "www.cottonon.com":"https://clnk.in/ihRE",
+        "www.oneplus.in":"https://www.oneplus.in/invite#MDUB1CoqLbzxNzL7KyVa1B",
+        "oneplus.in":"https://www.oneplus.in/invite#MDUB1CoqLbzxNzL7KyVa1B"
     }
 }
