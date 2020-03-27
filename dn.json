@@ -98,7 +98,6 @@
     "graphpaperpress.com": "ref=659611"
   },
   "replace_domain": {
-    "flipkart.com": "flipkart.com"
   },
   "remove_query": {
     "flipkart.com": ["fm", "otracker"]
