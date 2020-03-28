@@ -1,5 +1,5 @@
 {
-  "domains": [
+  "dmns": [
     "flipkart.com",
     "bigrock.in",
     "bigrock.com",
@@ -79,7 +79,7 @@
     "cottonon.com",
     "oneplus.in"
   ],
-  "query_strings": {
+  "qrsts": {
     "flipkart.com": "affid=rk822827g",
     "bigrock.in": "utm_source=affiliate&a_aid=54ef132e4ae08",
     "bigrock.com": "utm_source=affiliate&a_aid=54ef132e4ae08",
@@ -97,12 +97,12 @@
     "templatemonster.com": "aff=rk822827",
     "graphpaperpress.com": "ref=659611"
   },
-  "replace_domain": {
+  "rplce": {
   },
-  "remove_query": {
+  "rmvq": {
     "flipkart.com": ["fm", "otracker"]
   },
-  "redirect_domains": {
+  "rdctd": {
     "interserver.net": "http://www.interserver.net/r/282550",
     "bigrock.in": "https://bigrock-in.sjv.io/c/1218646/496677/5632",
     "udemy.com": "https://udemy-courses.pxf.io/OxQXG",
