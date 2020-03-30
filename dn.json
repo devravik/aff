@@ -77,7 +77,11 @@
     "leadpages.net",
     "carolsdaughter.com",
     "cottonon.com",
-    "oneplus.in"
+    "oneplus.in",
+    "alibabacloud.com",
+    "in.alibabacloud.com",
+    "us.alibabacloud.com",
+    "eu.alibabacloud.com"
   ],
   "qrsts": {
     "flipkart.com": "affid=rk822827g",
@@ -97,8 +101,7 @@
     "templatemonster.com": "aff=rk822827",
     "graphpaperpress.com": "ref=659611"
   },
-  "rplce": {
-  },
+  "rplce": {},
   "rmvq": {
     "flipkart.com": ["fm", "otracker"]
   },
@@ -174,6 +177,10 @@
     "amazon.com": "https://www.amazon.com/?tag=kravi0a-20&linkCode=ur1",
     "codecanyon.net": "https://1.envato.market/c/1329263/523004/4415",
     "themeforest.net": "https://1.envato.market/c/1329263/522996/4415",
-    "videohive.net": "https://1.envato.market/c/1329263/448853/4415"
+    "videohive.net": "https://1.envato.market/c/1329263/448853/4415",
+    "alibabacloud.com": "https://click.linksynergy.com/fs-bin/click?id=c*Ve/90YFA4&offerid=584883.5&type=3&subid=0",
+    "in.alibabacloud.com": "https://click.linksynergy.com/fs-bin/click?id=c*Ve/90YFA4&offerid=584883.5&type=3&subid=0",
+    "us.alibabacloud.com": "https://click.linksynergy.com/fs-bin/click?id=c*Ve/90YFA4&offerid=584883.5&type=3&subid=0",
+    "eu.alibabacloud.com": "https://click.linksynergy.com/fs-bin/click?id=c*Ve/90YFA4&offerid=584883.5&type=3&subid=0"
   }
 }
