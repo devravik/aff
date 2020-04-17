@@ -81,7 +81,8 @@
     "alibabacloud.com",
     "in.alibabacloud.com",
     "us.alibabacloud.com",
-    "eu.alibabacloud.com"
+    "eu.alibabacloud.com",
+    "linode.com"
   ],
   "qrsts": {
     "flipkart.com": "affid=rk822827g",
@@ -98,7 +99,8 @@
     "agoda.com": "pcs=1&cid=1844797",
     "teamwork.com": "ref=kravi&friend=1",
     "templatemonster.com": "aff=rk822827",
-    "graphpaperpress.com": "ref=659611"
+    "graphpaperpress.com": "ref=659611",
+    "linode.com": "r=a2c9f1f873bf9533015826fc701fd86ee6c154c1"
   },
   "rplce": {},
   "rmvq": {
@@ -180,6 +182,7 @@
     "alibabacloud.com": "https://click.linksynergy.com/fs-bin/click?id=c*Ve/90YFA4&offerid=584883.5&type=3&subid=0",
     "in.alibabacloud.com": "https://click.linksynergy.com/fs-bin/click?id=c*Ve/90YFA4&offerid=584883.5&type=3&subid=0",
     "us.alibabacloud.com": "https://click.linksynergy.com/fs-bin/click?id=c*Ve/90YFA4&offerid=584883.5&type=3&subid=0",
-    "eu.alibabacloud.com": "https://click.linksynergy.com/fs-bin/click?id=c*Ve/90YFA4&offerid=584883.5&type=3&subid=0"
+    "eu.alibabacloud.com": "https://click.linksynergy.com/fs-bin/click?id=c*Ve/90YFA4&offerid=584883.5&type=3&subid=0",
+    "linode.com":"https://www.linode.com/?r=a2c9f1f873bf9533015826fc701fd86ee6c154c1"
   }
 }

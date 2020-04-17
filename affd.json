@@ -656,7 +656,9 @@
     "alibabacloud.com",
     "in.alibabacloud.com",
     "us.alibabacloud.com",
-    "eu.alibabacloud.com"
+    "eu.alibabacloud.com",
+    "linode.com",
+    "www.linode.com"
   ],
   "query_strings": [
     "affid=rk822827g",
@@ -1315,7 +1317,9 @@
     "",
     "",
     "",
-    ""
+    "",
+    "r=a2c9f1f873bf9533015826fc701fd86ee6c154c1",
+    "r=a2c9f1f873bf9533015826fc701fd86ee6c154c1"
   ],
   "replace_domain": {
     "www.flipkart.com": "www.flipkart.com",
@@ -1468,6 +1472,8 @@
     "alibabacloud.com": "https://click.linksynergy.com/fs-bin/click?id=c*Ve/90YFA4&offerid=584883.5&type=3&subid=0",
     "in.alibabacloud.com": "https://click.linksynergy.com/fs-bin/click?id=c*Ve/90YFA4&offerid=584883.5&type=3&subid=0",
     "us.alibabacloud.com": "https://click.linksynergy.com/fs-bin/click?id=c*Ve/90YFA4&offerid=584883.5&type=3&subid=0",
-    "eu.alibabacloud.com": "https://click.linksynergy.com/fs-bin/click?id=c*Ve/90YFA4&offerid=584883.5&type=3&subid=0"
+    "eu.alibabacloud.com": "https://click.linksynergy.com/fs-bin/click?id=c*Ve/90YFA4&offerid=584883.5&type=3&subid=0",
+    "linode.com":"https://www.linode.com/?r=a2c9f1f873bf9533015826fc701fd86ee6c154c1",
+    "www.linode.com":"https://www.linode.com/?r=a2c9f1f873bf9533015826fc701fd86ee6c154c1"
   }
 }
