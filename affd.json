@@ -660,7 +660,17 @@
     "linode.com",
     "www.linode.com",
     "inmotionhosting.com",
-    "www.inmotionhosting.com"
+    "www.inmotionhosting.com",
+    "stackpath.com",
+    "www.stackpath.com",
+    "cylance.com",
+    "www.cylance.com",
+    "eaze.com",
+    "www.eaze.com",
+    "ithemes.com",
+    "www.ithemes.com",
+    "tenorshare.com",
+    "www.tenorshare.com"
   ],
   "query_strings": [
     "affid=rk822827g",
@@ -1323,6 +1333,16 @@
     "r=a2c9f1f873bf9533015826fc701fd86ee6c154c1",
     "r=a2c9f1f873bf9533015826fc701fd86ee6c154c1",
     "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
     ""
   ],
   "replace_domain": {
@@ -1480,6 +1500,16 @@
     "linode.com":"https://www.linode.com/?r=a2c9f1f873bf9533015826fc701fd86ee6c154c1",
     "www.linode.com":"https://www.linode.com/?r=a2c9f1f873bf9533015826fc701fd86ee6c154c1",
     "inmotionhosting.com":"https://inmotion-hosting.evyy.net/QMOax",
-    "www.inmotionhosting.com":"https://inmotion-hosting.evyy.net/QMOax"
+    "www.inmotionhosting.com":"https://inmotion-hosting.evyy.net/QMOax",
+    "www.stackpath.com":"https://tracking.stackpath.com/eLeG6",
+    "stackpath.com":"https://tracking.stackpath.com/eLeG6",
+    "cylance.com":"https://cylanceconsumershop.sjv.io/VMAWJ",
+    "www.cylance.com":"https://cylanceconsumershop.sjv.io/VMAWJ",
+    "eaze.com":"https://eaze.pxf.io/XMGAy",
+    "www.eaze.com":"https://eaze.pxf.io/XMGAy",
+    "ithemes.com":"https://ithemes.pxf.io/WMAaO",
+    "www.ithemes.com":"https://ithemes.pxf.io/WMAaO",
+    "tenorshare.com":"https://tenorshare.pxf.io/EMOX9",
+    "www.tenorshare.com":"https://tenorshare.pxf.io/EMOX9"
   }
 }
