@@ -673,7 +673,19 @@
     "www.tenorshare.com",
     "elements.envato.com",
     "iobit.com",
-    "www.iobit.com"
+    "www.iobit.com",
+    "eukhost.com",
+    "www.eukhost.com",
+    "webhosting.uk.com",
+    "www.webhosting.uk.com",
+    "dhgate.com",
+    "www.dhgate.com",
+    "zaful.com",
+    "www.zaful.com",
+    "ipage.com",
+    "www.ipage.com",
+    "one.com",
+    "www.one.com"
   ],
   "query_strings": [
     "affid=rk822827g",
@@ -1349,6 +1361,19 @@
     "",
     "",
     "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
     ""
   ],
   "replace_domain": {
@@ -1515,6 +1540,18 @@
     "www.tenorshare.com": "https://tenorshare.pxf.io/EMOX9",
     "elements.envato.com": "https://1.envato.market/GM2q9",
     "iobit.com": "https://macbooster.7eer.net/c/1218646/782589/4385",
-    "www.iobit.com": "https://macbooster.7eer.net/c/1218646/782589/4385"
+    "www.iobit.com": "https://macbooster.7eer.net/c/1218646/782589/4385",
+    "eukhost.com": "https://www.jdoqocy.com/click-100133135-11935834",
+    "www.eukhost.com": "https://www.jdoqocy.com/click-100133135-11935834",
+    "webhosting.uk.com": "https://www.kqzyfj.com/click-100133135-12722663",
+    "www.webhosting.uk.com": "https://www.kqzyfj.com/click-100133135-12722663",
+    "dhgate.com": "https://www.anrdoezrs.net/click-100133135-11477728",
+    "www.dhgate.com": "https://www.anrdoezrs.net/click-100133135-11477728",
+    "zaful.com": "https://www.tkqlhce.com/click-100133135-13938325",
+    "www.zaful.com": "https://www.tkqlhce.com/click-100133135-13938325",
+    "ipage.com": "https://www.jdoqocy.com/click-100133135-12310352",
+    "www.ipage.com": "https://www.jdoqocy.com/click-100133135-12310352",
+    "one.com": "https://www.kqzyfj.com/click-100133135-12267750-1552556347000",
+    "www.one.com": "https://www.kqzyfj.com/click-100133135-12267750-1552556347000"
   }
 }
