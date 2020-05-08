@@ -685,7 +685,12 @@
     "ipage.com",
     "www.ipage.com",
     "one.com",
-    "www.one.com"
+    "www.one.com",
+    "livedrive.com",
+    "www.livedrive.com",
+    "www2.livedrive.com",
+    "appsumo.com",
+    "www.appsumo.com"
   ],
   "query_strings": [
     "affid=rk822827g",
@@ -1373,6 +1378,11 @@
     "",
     "",
     "",
+    "",
+    "",
+    "",
+    "",
+    "",
     ""
   ],
   "replace_domain": {
@@ -1551,6 +1561,11 @@
     "ipage.com": "https://www.jdoqocy.com/click-100133135-12310352",
     "www.ipage.com": "https://www.jdoqocy.com/click-100133135-12310352",
     "one.com": "https://www.kqzyfj.com/click-100133135-12267750-1552556347000",
-    "www.one.com": "https://www.kqzyfj.com/click-100133135-12267750-1552556347000"
+    "www.one.com": "https://www.kqzyfj.com/click-100133135-12267750-1552556347000",
+    "livedrive.com":"https://livedrive.evyy.net/c/1218646/292306/4190",
+    "www.livedrive.com":"https://livedrive.evyy.net/c/1218646/292306/4190",
+    "www2.livedrive.com":"https://livedrive.evyy.net/c/1218646/292306/4190",
+    "appsumo.com":"https://appsumo.8odi.net/vJmYj",
+    "www.appsumo.com":"https://appsumo.8odi.net/vJmYj"
   }
 }
