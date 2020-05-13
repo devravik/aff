@@ -698,7 +698,9 @@
     "hostwinds.com",
     "www.hostwinds.com",
     "hostinger.com",
-    "www.hostinger.com"
+    "www.hostinger.com",
+    "scalahosting.com",
+    "www.scalahosting.com"
   ],
   "query_strings": [
     "affid=rk822827g",
@@ -1399,6 +1401,8 @@
     "",
     "",
     "",
+    "",
+    "",
     ""
   ],
   "replace_domain": {
@@ -1590,6 +1594,8 @@
     "hostwinds.com":"https://www.hostwinds.com/8188.html",
     "www.hostwinds.com":"https://www.hostwinds.com/8188.html",
     "hostinger.com":"https://www.kqzyfj.com/click-100133135-13608871",
-    "www.hostinger.com":"https://www.kqzyfj.com/click-100133135-13608871"
+    "www.hostinger.com":"https://www.kqzyfj.com/click-100133135-13608871",
+    "scalahosting.com":"https://www.scalahosting.com/#sclahstng",
+    "www.scalahosting.com":"https://www.scalahosting.com/#sclahstng"
   }
 }
