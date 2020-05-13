@@ -690,7 +690,9 @@
     "www.livedrive.com",
     "www2.livedrive.com",
     "appsumo.com",
-    "www.appsumo.com"
+    "www.appsumo.com",
+    "upgrad.com",
+    "www.upgrad.com"
   ],
   "query_strings": [
     "affid=rk822827g",
@@ -1383,7 +1385,9 @@
     "",
     "",
     "",
-    ""
+    "",
+    "ref=n2Apg1",
+    "ref=n2Apg1"
   ],
   "replace_domain": {
     "www.flipkart.com": "www.flipkart.com",
@@ -1566,6 +1570,8 @@
     "www.livedrive.com":"https://livedrive.evyy.net/c/1218646/292306/4190",
     "www2.livedrive.com":"https://livedrive.evyy.net/c/1218646/292306/4190",
     "appsumo.com":"https://appsumo.8odi.net/vJmYj",
-    "www.appsumo.com":"https://appsumo.8odi.net/vJmYj"
+    "www.appsumo.com":"https://appsumo.8odi.net/vJmYj",
+    "upgrad.com":"https://www.upgrad.com?ref=n2Apg1",
+    "www.upgrad.com":"https://www.upgrad.com?ref=n2Apg1"
   }
 }
