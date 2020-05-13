@@ -700,7 +700,9 @@
     "hostinger.com",
     "www.hostinger.com",
     "scalahosting.com",
-    "www.scalahosting.com"
+    "www.scalahosting.com",
+    "greengeeks.com",
+    "www.greengeeks.com"
   ],
   "query_strings": [
     "affid=rk822827g",
@@ -1403,6 +1405,8 @@
     "",
     "",
     "",
+    "",
+    "",
     ""
   ],
   "replace_domain": {
@@ -1596,6 +1600,8 @@
     "hostinger.com":"https://www.kqzyfj.com/click-100133135-13608871",
     "www.hostinger.com":"https://www.kqzyfj.com/click-100133135-13608871",
     "scalahosting.com":"https://www.scalahosting.com/#sclahstng",
-    "www.scalahosting.com":"https://www.scalahosting.com/#sclahstng"
+    "www.scalahosting.com":"https://www.scalahosting.com/#sclahstng",
+    "greengeeks.com":"https://www.greengeeks.com/track/rk822827",
+    "www.greengeeks.com":"https://www.greengeeks.com/track/rk822827"
   }
 }
