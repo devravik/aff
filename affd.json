@@ -692,7 +692,11 @@
     "appsumo.com",
     "www.appsumo.com",
     "upgrad.com",
-    "www.upgrad.com"
+    "www.upgrad.com",
+    "bluehost.com",
+    "www.bluehost.com",
+    "hostwinds.com",
+    "www.hostwinds.com"
   ],
   "query_strings": [
     "affid=rk822827g",
@@ -1387,7 +1391,11 @@
     "",
     "",
     "ref=n2Apg1",
-    "ref=n2Apg1"
+    "ref=n2Apg1",
+    "",
+    "",
+    "",
+    ""
   ],
   "replace_domain": {
     "www.flipkart.com": "www.flipkart.com",
@@ -1572,6 +1580,10 @@
     "appsumo.com":"https://appsumo.8odi.net/vJmYj",
     "www.appsumo.com":"https://appsumo.8odi.net/vJmYj",
     "upgrad.com":"https://www.upgrad.com?ref=n2Apg1",
-    "www.upgrad.com":"https://www.upgrad.com?ref=n2Apg1"
+    "www.upgrad.com":"https://www.upgrad.com?ref=n2Apg1",
+    "bluehost.com":"https://www.bluehost.com/track/bluhstkr/",
+    "www.bluehost.com":"https://www.bluehost.com/track/bluhstkr/",
+    "hostwinds.com":"https://www.hostwinds.com/8188.html",
+    "www.hostwinds.com":"https://www.hostwinds.com/8188.html"
   }
 }
