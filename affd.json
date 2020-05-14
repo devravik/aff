@@ -702,7 +702,9 @@
     "scalahosting.com",
     "www.scalahosting.com",
     "greengeeks.com",
-    "www.greengeeks.com"
+    "www.greengeeks.com",
+    "siteground.com",
+    "www.siteground.com"
   ],
   "query_strings": [
     "affid=rk822827g",
@@ -1407,7 +1409,9 @@
     "",
     "",
     "",
-    ""
+    "",
+    "afcode=9c60598227ead44493cc9230cdddd41a",
+    "afcode=9c60598227ead44493cc9230cdddd41a"
   ],
   "replace_domain": {
     "www.flipkart.com": "www.flipkart.com",
@@ -1602,6 +1606,8 @@
     "scalahosting.com":"https://www.scalahosting.com/#sclahstng",
     "www.scalahosting.com":"https://www.scalahosting.com/#sclahstng",
     "greengeeks.com":"https://www.greengeeks.com/track/rk822827",
-    "www.greengeeks.com":"https://www.greengeeks.com/track/rk822827"
+    "www.greengeeks.com":"https://www.greengeeks.com/track/rk822827",
+    "siteground.com":"https://www.siteground.com/index.htm?afcode=9c60598227ead44493cc9230cdddd41a",
+    "www.siteground.com":"https://www.siteground.com/index.htm?afcode=9c60598227ead44493cc9230cdddd41a"
   }
 }

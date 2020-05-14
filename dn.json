@@ -101,7 +101,8 @@
     "hostwinds.com",
     "hostinger.com",
     "scalahosting.com",
-    "greengeeks.com"
+    "greengeeks.com",
+    "siteground.com"
   ],
   "qrsts": {
     "flipkart.com": "affid=rk822827g",
@@ -120,7 +121,8 @@
     "templatemonster.com": "aff=rk822827",
     "graphpaperpress.com": "ref=659611",
     "linode.com": "r=a2c9f1f873bf9533015826fc701fd86ee6c154c1",
-    "upgrad.com":"ref=n2Apg1"
+    "upgrad.com":"ref=n2Apg1",
+    "siteground.com":"afcode=9c60598227ead44493cc9230cdddd41a"
   },
   "rplce": {},
   "rmvq": {
@@ -222,6 +224,7 @@
     "hostwinds.com":"https://www.hostwinds.com/8188.html",
     "hostinger.com":"https://www.kqzyfj.com/click-100133135-13608871",
     "scalahosting.com":"https://www.scalahosting.com/#sclahstng",
-    "greengeeks.com":"https://www.greengeeks.com/track/rk822827"
+    "greengeeks.com":"https://www.greengeeks.com/track/rk822827",
+    "siteground.com":"https://www.siteground.com/index.htm?afcode=9c60598227ead44493cc9230cdddd41a"
   }
 }
