@@ -704,7 +704,9 @@
     "greengeeks.com",
     "www.greengeeks.com",
     "siteground.com",
-    "www.siteground.com"
+    "www.siteground.com",
+    "oneplus.com",
+    "www.oneplus.com"
   ],
   "query_strings": [
     "affid=rk822827g",
@@ -1411,7 +1413,9 @@
     "",
     "",
     "afcode=9c60598227ead44493cc9230cdddd41a",
-    "afcode=9c60598227ead44493cc9230cdddd41a"
+    "afcode=9c60598227ead44493cc9230cdddd41a",
+    "",
+    ""
   ],
   "replace_domain": {
     "www.flipkart.com": "www.flipkart.com",
@@ -1590,24 +1594,26 @@
     "www.ipage.com": "https://www.jdoqocy.com/click-100133135-12310352",
     "one.com": "https://www.kqzyfj.com/click-100133135-12267750-1552556347000",
     "www.one.com": "https://www.kqzyfj.com/click-100133135-12267750-1552556347000",
-    "livedrive.com":"https://livedrive.evyy.net/c/1218646/292306/4190",
-    "www.livedrive.com":"https://livedrive.evyy.net/c/1218646/292306/4190",
-    "www2.livedrive.com":"https://livedrive.evyy.net/c/1218646/292306/4190",
-    "appsumo.com":"https://appsumo.8odi.net/vJmYj",
-    "www.appsumo.com":"https://appsumo.8odi.net/vJmYj",
-    "upgrad.com":"https://www.upgrad.com?ref=n2Apg1",
-    "www.upgrad.com":"https://www.upgrad.com?ref=n2Apg1",
-    "bluehost.com":"https://www.bluehost.com/track/bluhstkr/",
-    "www.bluehost.com":"https://www.bluehost.com/track/bluhstkr/",
-    "hostwinds.com":"https://www.hostwinds.com/8188.html",
-    "www.hostwinds.com":"https://www.hostwinds.com/8188.html",
-    "hostinger.com":"https://www.kqzyfj.com/click-100133135-13608871",
-    "www.hostinger.com":"https://www.kqzyfj.com/click-100133135-13608871",
-    "scalahosting.com":"https://www.scalahosting.com/#sclahstng",
-    "www.scalahosting.com":"https://www.scalahosting.com/#sclahstng",
-    "greengeeks.com":"https://www.greengeeks.com/track/rk822827",
-    "www.greengeeks.com":"https://www.greengeeks.com/track/rk822827",
-    "siteground.com":"https://www.siteground.com/index.htm?afcode=9c60598227ead44493cc9230cdddd41a",
-    "www.siteground.com":"https://www.siteground.com/index.htm?afcode=9c60598227ead44493cc9230cdddd41a"
+    "livedrive.com": "https://livedrive.evyy.net/c/1218646/292306/4190",
+    "www.livedrive.com": "https://livedrive.evyy.net/c/1218646/292306/4190",
+    "www2.livedrive.com": "https://livedrive.evyy.net/c/1218646/292306/4190",
+    "appsumo.com": "https://appsumo.8odi.net/vJmYj",
+    "www.appsumo.com": "https://appsumo.8odi.net/vJmYj",
+    "upgrad.com": "https://www.upgrad.com?ref=n2Apg1",
+    "www.upgrad.com": "https://www.upgrad.com?ref=n2Apg1",
+    "bluehost.com": "https://www.bluehost.com/track/bluhstkr/",
+    "www.bluehost.com": "https://www.bluehost.com/track/bluhstkr/",
+    "hostwinds.com": "https://www.hostwinds.com/8188.html",
+    "www.hostwinds.com": "https://www.hostwinds.com/8188.html",
+    "hostinger.com": "https://www.kqzyfj.com/click-100133135-13608871",
+    "www.hostinger.com": "https://www.kqzyfj.com/click-100133135-13608871",
+    "scalahosting.com": "https://www.scalahosting.com/#sclahstng",
+    "www.scalahosting.com": "https://www.scalahosting.com/#sclahstng",
+    "greengeeks.com": "https://www.greengeeks.com/track/rk822827",
+    "www.greengeeks.com": "https://www.greengeeks.com/track/rk822827",
+    "siteground.com": "https://www.siteground.com/index.htm?afcode=9c60598227ead44493cc9230cdddd41a",
+    "www.siteground.com": "https://www.siteground.com/index.htm?afcode=9c60598227ead44493cc9230cdddd41a",
+    "oneplus.com": "https://www.jdoqocy.com/click-100133135-13702673",
+    "www.oneplus.com": "https://www.jdoqocy.com/click-100133135-13702673"
   }
 }
