@@ -197,7 +197,8 @@
     "greengeeks.com",
     "www.greengeeks.com",
     "oneplus.com",
-    "www.oneplus.com"
+    "www.oneplus.com",
+    "gsuite.google.com"
   ],
   "query_strings": [
     "affid=rk822827g",
@@ -397,6 +398,7 @@
     "",
     "",
     "",
+    "",
     ""    
   ],
   "replace_domain": {
@@ -408,6 +410,7 @@
     "flipkart.com": ["fm", "otracker"]
   },
   "redirect_domains": {
+    "gsuite.google.com": "https://refergsuite.app.goo.gl/GUCG",
     "www.interserver.net": "https://www.interserver.net/r/282550",
     "interserver.net": "https://www.interserver.net/r/282550",
     "bigrock.in": "https://bigrock-in.sjv.io/c/1218646/496677/5632",
