@@ -198,7 +198,8 @@
     "www.greengeeks.com",
     "oneplus.com",
     "www.oneplus.com",
-    "gsuite.google.com"
+    "gsuite.google.com",
+    "amazon.com"
   ],
   "query_strings": [
     "affid=rk822827g",
@@ -351,6 +352,7 @@
     "",
     "",
     "",    
+    "",
     "",
     "",
     "",
@@ -587,6 +589,7 @@
     "siteground.com": "https://www.siteground.com/index.htm?afcode=9c60598227ead44493cc9230cdddd41a",
     "www.siteground.com": "https://www.siteground.com/index.htm?afcode=9c60598227ead44493cc9230cdddd41a",
     "oneplus.com": "https://www.jdoqocy.com/click-100133135-13702673",
-    "www.oneplus.com": "https://www.jdoqocy.com/click-100133135-13702673"
+    "www.oneplus.com": "https://www.jdoqocy.com/click-100133135-13702673",
+    "amazon.com":"https://www.amazon.com?&_encoding=UTF8&tag=amzn210e-20&linkCode=ur2&linkId=3d14a0fa77362753b61bd71e213825da&camp=1789&creative=9325"
   }
 }
