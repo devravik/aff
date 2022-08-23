@@ -199,7 +199,9 @@
     "oneplus.com",
     "www.oneplus.com",
     "gsuite.google.com",
-    "amazon.com"
+    "amazon.com",
+    "octafx.com",
+    "my.octafx.com"
   ],
   "query_strings": [
     "affid=rk822827g",
@@ -498,6 +500,8 @@
     "greengeeks.com": "https://www.greengeeks.com/track/rk822827",
     "www.greengeeks.com": "https://www.greengeeks.com/track/rk822827",
     "siteground.com": "https://www.siteground.com/index.htm?afcode=9c60598227ead44493cc9230cdddd41a",
-    "www.siteground.com": "https://www.siteground.com/index.htm?afcode=9c60598227ead44493cc9230cdddd41a"
+    "www.siteground.com": "https://www.siteground.com/index.htm?afcode=9c60598227ead44493cc9230cdddd41a",
+    "octafx.com": "https://octafx.page.link/VGNJ",
+    "my.octafx.com": "https://octafx.page.link/VGNJ"
   }
 }
