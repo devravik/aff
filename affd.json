@@ -201,7 +201,8 @@
     "gsuite.google.com",
     "amazon.com",
     "octafx.com",
-    "my.octafx.com"
+    "my.octafx.com",
+    "koddos.net"
   ],
   "query_strings": [
     "affid=rk822827g",
@@ -502,6 +503,7 @@
     "siteground.com": "https://www.siteground.com/index.htm?afcode=9c60598227ead44493cc9230cdddd41a",
     "www.siteground.com": "https://www.siteground.com/index.htm?afcode=9c60598227ead44493cc9230cdddd41a",
     "octafx.com": "https://octafx.page.link/VGNJ",
-    "my.octafx.com": "https://octafx.page.link/VGNJ"
+    "my.octafx.com": "https://octafx.page.link/VGNJ",
+    "koddos.net": "https://koddos.net/clients/aff.php?aff=783"
   }
 }
