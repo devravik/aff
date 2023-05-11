@@ -202,7 +202,9 @@
     "amazon.com",
     "octafx.com",
     "my.octafx.com",
-    "koddos.net"
+    "koddos.net",
+    "inmotionhosting.com",
+    "www.inmotionhosting.com"
   ],
   "query_strings": [
     "affid=rk822827g",
@@ -504,6 +506,8 @@
     "www.siteground.com": "https://www.siteground.com/index.htm?afcode=9c60598227ead44493cc9230cdddd41a",
     "octafx.com": "https://octafx.page.link/VGNJ",
     "my.octafx.com": "https://octafx.page.link/VGNJ",
-    "koddos.net": "https://koddos.net/clients/aff.php?aff=783"
+    "koddos.net": "https://koddos.net/clients/aff.php?aff=783",
+    "inmotionhosting.com": "https://partners.inmotionhosting.com/6eyRrr",
+    "www.inmotionhosting.com": "https://partners.inmotionhosting.com/6eyRrr"
   }
 }

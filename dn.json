@@ -64,7 +64,8 @@
     "gsuite.google.com",
     "octafx.com",
     "my.octafx.com",
-    "koddos.net"
+    "koddos.net",
+    "inmotionhosting.com"
   ],
   "qrsts": {
     "flipkart.com": "affid=rk822827g",
@@ -142,6 +143,7 @@
     "banggood.in":"https://linksredirect.com/?cid=81166&source=linkkit&url=http%3A%2F%2Fwww.banggood.com%2F",
     "octafx.com":"https://octafx.page.link/VGNJ",
     "my.octafx.com":"https://octafx.page.link/VGNJ",
-    "koddos.net": "https://koddos.net/clients/aff.php?aff=783"
+    "koddos.net": "https://koddos.net/clients/aff.php?aff=783",
+    "inmotionhosting.com":"https://partners.inmotionhosting.com/6eyRrr"
   }
 }
