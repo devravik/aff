@@ -206,7 +206,9 @@
     "inmotionhosting.com",
     "www.inmotionhosting.com",
     "creativefabrica.com",
-    "www.creativefabrica.com"
+    "www.creativefabrica.com",
+    "ticketnetwork.com",
+    "www.ticketnetwork.com"
   ],
   "query_strings": [
     "affid=rk822827g",
@@ -512,6 +514,8 @@
     "inmotionhosting.com": "https://partners.inmotionhosting.com/6eyRrr",
     "www.inmotionhosting.com": "https://partners.inmotionhosting.com/6eyRrr",
     "creativefabrica.com": "https://www.creativefabrica.com/ref/3839622",
-    "www.creativefabrica.com": "https://www.creativefabrica.com/ref/3839622"
+    "www.creativefabrica.com": "https://www.creativefabrica.com/ref/3839622",
+    "ticketnetwork.com": "https://click.linksynergy.com/fs-bin/click?id=ddSoef6guQY&offerid=1179512.591&bids=1179512.591&type=3&subid=0",
+    "www.ticketnetwork.com": "https://click.linksynergy.com/fs-bin/click?id=ddSoef6guQY&offerid=1179512.591&bids=1179512.591&type=3&subid=0"
   }
 }

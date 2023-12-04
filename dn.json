@@ -68,7 +68,8 @@
     "dhgate.com",
     "banggood.com",
     "banggood.in",
-    "trip.com"
+    "trip.com",
+    "ticketnetwork.com"
   ],
   "qrsts": {
     "flipkart.com": "affid=rk822827g",
@@ -151,6 +152,7 @@
     "dhgate.com":"http://sale.dhgate.com/iahSgR49",
     "banggood.com":"https://www.banggood.com?p=YF030727341152201812&custlinkid=3164414",
     "banggood.in":"https://www.banggood.in?p=YF030727341152201812&custlinkid=3164417",
-    "trip.com":"https://www.trip.com/?Allianceid=3850446&SID=22254557&ouid="
+    "trip.com":"https://www.trip.com/?Allianceid=3850446&SID=22254557&ouid=",
+    "ticketnetwork.com":"https://click.linksynergy.com/fs-bin/click?id=ddSoef6guQY&offerid=1179512.591&bids=1179512.591&type=3&subid=0"
   }
 }
