@@ -76,7 +76,15 @@
     "philips-hue.com",
     "extendedstayamerica.com",
     "tymobeauty.com",
-    "megaseats.com"
+    "megaseats.com",
+    "canvaschamp.com",
+    "levi.com",
+    "invideo.io",
+    "movavi.com",
+    "namecheap.com",
+    "target.com",
+    "ssls.com",
+    "appsumo.com"
   ],
   "qrsts": {
     "flipkart.com": "affid=rk822827g",
@@ -168,6 +176,14 @@
     "philips-hue.com": "https://linksredirect.com/?cid=191143&source=linkkit&url=https%3A%2F%2Fwww.philips-hue.com%2Fen-us",
     "extendedstayamerica.com": "https://linksredirect.com/?cid=191143&source=linkkit&url=https%3A%2F%2Fwww.extendedstayamerica.com%2F",
     "tymobeauty.com": "https://linksredirect.com/?cid=191143&source=linkkit&url=https%3A%2F%2Ftymobeauty.com%2F",
-    "megaseats.com": "https://linksredirect.com/?cid=191143&source=linkkit&url=https%3A%2F%2Fwww.megaseats.com%2F"
+    "megaseats.com": "https://linksredirect.com/?cid=191143&source=linkkit&url=https%3A%2F%2Fwww.megaseats.com%2F",
+    "canvaschamp.com": "https://linksredirect.com/?cid=191143&source=linkkit&url=https%3A%2F%2Fwww.canvaschamp.com%2F",
+    "levi.com": "https://linksredirect.com/?cid=191143&source=linkkit&url=https%3A%2F%2Fwww.levi.com%2FUS%2Fen_US%2F",
+    "invideo.io": "https://linksredirect.com/?cid=191143&source=linkkit&url=https%3A%2F%2Finvideo.io%2F",
+    "movavi.com": "https://linksredirect.com/?cid=191143&source=linkkit&url=https%3A%2F%2Fwww.movavi.com%2F",
+    "namecheap.com": "https://linksredirect.com/?cid=191143&source=linkkit&url=https%3A%2F%2Fwww.namecheap.com%2F",
+    "target.com": "https://linksredirect.com/?cid=191143&source=linkkit&url=https%3A%2F%2Fwww.target.com",
+    "ssls.com": "https://linksredirect.com/?cid=191143&source=linkkit&url=https%3A%2F%2Fwww.ssls.com%2F",
+    "appsumo.com" : "https://linksredirect.com/?cid=191143&source=linkkit&url=https%3A%2F%2Fappsumo.com%2F"
   }
 }
