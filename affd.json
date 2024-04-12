@@ -208,7 +208,19 @@
     "creativefabrica.com",
     "www.creativefabrica.com",
     "ticketnetwork.com",
-    "www.ticketnetwork.com"
+    "www.ticketnetwork.com",
+    "ajio.com",
+    "www.ajio.com",
+    "retro-stage.com",
+    "www.retro-stage.com",
+    "philips-hue.com",
+    "www.philips-hue.com",
+    "extendedstayamerica.com",
+    "www.extendedstayamerica.com",
+    "tymobeauty.com",
+    "www.tymobeauty.com",
+    "megaseats.com",
+    "www.megaseats.com"
   ],
   "query_strings": [
     "affid=rk822827g",
@@ -522,6 +534,18 @@
     "bigrock.in": "https://clnk.in/tEsQ",
     "www.bigrock.in": "https://clnk.in/tEsQ",
     "flipkart.com":"https://linksredirect.com/?cid=191143&source=linkkit&url=https%3A%2F%2Fwww.flipkart.com",
-    "www.flipkart.com":"https://linksredirect.com/?cid=191143&source=linkkit&url=https%3A%2F%2Fwww.flipkart.com"
+    "www.flipkart.com":"https://linksredirect.com/?cid=191143&source=linkkit&url=https%3A%2F%2Fwww.flipkart.com",
+    "ajio.com": "https://linksredirect.com/?cid=191143&source=linkkit&url=https%3A%2F%2Fwww.ajio.com%2F",
+    "www.ajio.com": "https://linksredirect.com/?cid=191143&source=linkkit&url=https%3A%2F%2Fwww.ajio.com%2F",
+    "retro-stage.com": "https://linksredirect.com/?cid=191143&source=linkkit&url=https%3A%2F%2Fwww.retro-stage.com%2F",
+    "www.retro-stage.com": "https://linksredirect.com/?cid=191143&source=linkkit&url=https%3A%2F%2Fwww.retro-stage.com%2F",
+    "philips-hue.com":"https://linksredirect.com/?cid=191143&source=linkkit&url=https%3A%2F%2Fwww.philips-hue.com%2Fen-us",
+    "www.philips-hue.com":"https://linksredirect.com/?cid=191143&source=linkkit&url=https%3A%2F%2Fwww.philips-hue.com%2Fen-us",
+    "extendedstayamerica.com": "https://linksredirect.com/?cid=191143&source=linkkit&url=https%3A%2F%2Fwww.extendedstayamerica.com%2F",
+    "www.extendedstayamerica.com": "https://linksredirect.com/?cid=191143&source=linkkit&url=https%3A%2F%2Fwww.extendedstayamerica.com%2F",
+    "tymobeauty.com": "https://linksredirect.com/?cid=191143&source=linkkit&url=https%3A%2F%2Ftymobeauty.com%2F",
+    "www.tymobeauty.com": "https://linksredirect.com/?cid=191143&source=linkkit&url=https%3A%2F%2Ftymobeauty.com%2F",
+    "megaseats.com": "https://linksredirect.com/?cid=191143&source=linkkit&url=https%3A%2F%2Fwww.megaseats.com%2F",
+    "www.megaseats.com": "https://linksredirect.com/?cid=191143&source=linkkit&url=https%3A%2F%2Fwww.megaseats.com%2F"
   }
 }

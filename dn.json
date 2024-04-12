@@ -70,7 +70,13 @@
     "banggood.in",
     "trip.com",
     "ticketnetwork.com",
-    "udemy.com"
+    "udemy.com",
+    "ajio.com",
+    "retro-stage.com",
+    "philips-hue.com",
+    "extendedstayamerica.com",
+    "tymobeauty.com",
+    "megaseats.com"
   ],
   "qrsts": {
     "flipkart.com": "affid=rk822827g",
@@ -156,6 +162,12 @@
     "trip.com":"https://www.trip.com/?Allianceid=3850446&SID=22254557&ouid=",
     "ticketnetwork.com":"https://click.linksynergy.com/fs-bin/click?id=ddSoef6guQY&offerid=1179512.591&bids=1179512.591&type=3&subid=0",
     "udemy.com":"https://linksredirect.com/?cid=191143&source=linkkit&url=https%3A%2F%2Fwww.udemy.com%2F",
-    "flipkart.com": "https://linksredirect.com/?cid=191143&source=linkkit&url=https%3A%2F%2Fwww.flipkart.com"
+    "flipkart.com": "https://linksredirect.com/?cid=191143&source=linkkit&url=https%3A%2F%2Fwww.flipkart.com",
+    "ajio.com": "https://linksredirect.com/?cid=191143&source=linkkit&url=https%3A%2F%2Fwww.ajio.com%2F",
+    "retro-stage.com": "https://linksredirect.com/?cid=191143&source=linkkit&url=https%3A%2F%2Fwww.retro-stage.com%2F",
+    "philips-hue.com": "https://linksredirect.com/?cid=191143&source=linkkit&url=https%3A%2F%2Fwww.philips-hue.com%2Fen-us",
+    "extendedstayamerica.com": "https://linksredirect.com/?cid=191143&source=linkkit&url=https%3A%2F%2Fwww.extendedstayamerica.com%2F",
+    "tymobeauty.com": "https://linksredirect.com/?cid=191143&source=linkkit&url=https%3A%2F%2Ftymobeauty.com%2F",
+    "megaseats.com": "https://linksredirect.com/?cid=191143&source=linkkit&url=https%3A%2F%2Fwww.megaseats.com%2F"
   }
 }
