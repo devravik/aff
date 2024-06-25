@@ -238,7 +238,9 @@
     "igpcom",
     "www.igpcom",
     "socialcatfish.com",
-    "www.socialcatfish.com"
+    "www.socialcatfish.com",
+    "wish.com",
+    "www.wish.com"
   ],
   "query_strings": [
     "affid=rk822827g",
@@ -582,6 +584,8 @@
     "igpcom": "https://linksredirect.com/?cid=191143&source=linkkit&url=https%3A%2F%2Fwww.igp.com%2F",
     "www.igpcom": "https://linksredirect.com/?cid=191143&source=linkkit&url=https%3A%2F%2Fwww.igp.com%2F",
     "socialcatfish.com": "https://linksredirect.com/?cid=191143&source=linkkit&url=https%3A%2F%2Fsocialcatfish.com%2F",
-    "www.socialcatfish.com": "https://linksredirect.com/?cid=191143&source=linkkit&url=https%3A%2F%2Fsocialcatfish.com%2F"
+    "www.socialcatfish.com": "https://linksredirect.com/?cid=191143&source=linkkit&url=https%3A%2F%2Fsocialcatfish.com%2F",
+    "wish.com": "https://linksredirect.com/?cid=191143&source=linkkit&url=https%3A%2F%2Fwish.com%2F",
+    "www.wish.com": "https://linksredirect.com/?cid=191143&source=linkkit&url=https%3A%2F%2Fwish.com%2F"
   }
 }
