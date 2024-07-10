@@ -240,7 +240,9 @@
     "socialcatfish.com",
     "www.socialcatfish.com",
     "wish.com",
-    "www.wish.com"
+    "www.wish.com",
+    "sellcodes.com",
+    "ww.sellcodes.com"
   ],
   "query_strings": [
     "affid=rk822827g",
@@ -586,6 +588,8 @@
     "socialcatfish.com": "https://linksredirect.com/?cid=191143&source=linkkit&url=https%3A%2F%2Fsocialcatfish.com%2F",
     "www.socialcatfish.com": "https://linksredirect.com/?cid=191143&source=linkkit&url=https%3A%2F%2Fsocialcatfish.com%2F",
     "wish.com": "https://linksredirect.com/?cid=191143&source=linkkit&url=https%3A%2F%2Fwww.wish.com%2F",
-    "www.wish.com": "https://linksredirect.com/?cid=191143&source=linkkit&url=https%3A%2F%2Fwww.wish.com%2F"
+    "www.wish.com": "https://linksredirect.com/?cid=191143&source=linkkit&url=https%3A%2F%2Fwww.wish.com%2F",
+    "sellcodes.com": "https://sellcodes.com/s/io1hRj",
+    "www.sellcodes.com": "https://sellcodes.com/s/io1hRj"
   }
 }
