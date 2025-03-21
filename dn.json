@@ -89,7 +89,8 @@
     "socialcatfish.com",
     "wish.com",
     "sellcodes.com",
-    "shopify.com"
+    "shopify.com",
+    "klook.com"
   ],
   "qrsts": {
     "flipkart.com": "affid=rk822827g",
@@ -111,7 +112,8 @@
     "siteground.com":"afcode=9c60598227ead44493cc9230cdddd41a",
     "banggood.com":"p=YF030727341152201812&custlinkid=3164414",
     "banggood.in":"p=YF030727341152201812&custlinkid=3164417",
-    "trip.com": "Allianceid=3850446&SID=22254557&ouid="
+    "trip.com": "Allianceid=3850446&SID=22254557&ouid=",
+    "klook.com":"aid=86027&aff_adid=1018601"
   },
   "rplce": {},
   "rmvq": {
@@ -194,6 +196,7 @@
     "socialcatfish.com" : "https://linksredirect.com/?cid=191143&source=linkkit&url=https%3A%2F%2Fsocialcatfish.com%2F",
     "wish.com" : "https://linksredirect.com/?cid=191143&source=linkkit&url=https%3A%2F%2Fwww.wish.com%2F",
     "sellcodes.com" : "https://sellcodes.com/s/io1hRj",
-    "shopify.com" : "https://shopify.pxf.io/q41JeY"
+    "shopify.com" : "https://shopify.pxf.io/q41JeY",
+    "klook.com": "https://affiliate.klook.com/redirect?aid=86027&aff_adid=1018601&k_site=https%3A%2F%2Fwww.klook.com%2F"
   }
 }
