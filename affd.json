@@ -243,8 +243,6 @@
     "www.wish.com",
     "sellcodes.com",
     "ww.sellcodes.com",
-    "shopify.com",
-    "www.shopify.com",
     "expedia.com",
     "www.expedia.com"
   ],
@@ -450,8 +448,6 @@
     "",
     "",
     "",
-    "",
-    "",
     ""  
   ],
   "replace_domain": {
@@ -599,8 +595,6 @@
     "www.wish.com": "https://linksredirect.com/?cid=191143&source=linkkit&url=https%3A%2F%2Fwww.wish.com%2F",
     "sellcodes.com": "https://sellcodes.com/s/io1hRj",
     "www.sellcodes.com": "https://sellcodes.com/s/io1hRj",
-    "shopify.com": "https://shopify.pxf.io/q41JeY",
-    "www.shopify.com": "https://shopify.pxf.io/q41JeY",
     "expedia.com": "https://www.anrdoezrs.net/click-101372936-12639039",
     "www.expedia.com": "https://www.anrdoezrs.net/click-101372936-12639039"
   }
