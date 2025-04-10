@@ -246,7 +246,9 @@
     "expedia.com",
     "www.expedia.com",
     "hotels.com",
-    "www.hotels.com"
+    "www.hotels.com",
+    "viator.com",
+    "www.viator.com"
   ],
   "query_strings": [
     "affid=rk822827g",
@@ -452,7 +454,9 @@
     "",
     "",
     "",
-    ""  
+    "",
+    "pid=P00241711&mcid=42383&medium=link&campaign=homelink",
+    "pid=P00241711&mcid=42383&medium=link&campaign=homelink"
   ],
   "replace_domain": {
     "www.flipkart.com": "www.flipkart.com",
@@ -602,6 +606,8 @@
     "expedia.com": "https://www.anrdoezrs.net/click-101372936-12639039",
     "www.expedia.com": "https://www.anrdoezrs.net/click-101372936-12639039",
     "hotels.com": "https://www.kqzyfj.com/click-101372936-15042852",
-    "www.hotels.com": "https://www.kqzyfj.com/click-101372936-15042852"
+    "www.hotels.com": "https://www.kqzyfj.com/click-101372936-15042852",
+    "viator.com": "https://www.viator.com/?pid=P00241711&mcid=42383&medium=link&campaign=homelink",
+    "www.viator.com": "https://www.viator.com/?pid=P00241711&mcid=42383&medium=link&campaign=homelink"
   }
 }

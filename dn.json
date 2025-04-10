@@ -91,7 +91,8 @@
     "sellcodes.com",
     "klook.com",
     "expedia.com",
-    "hotels.com"
+    "hotels.com",
+    "viator.com"
   ],
   "qrsts": {
     "flipkart.com": "affid=rk822827g",
@@ -114,7 +115,8 @@
     "banggood.com":"p=YF030727341152201812&custlinkid=3164414",
     "banggood.in":"p=YF030727341152201812&custlinkid=3164417",
     "trip.com": "Allianceid=3850446&SID=22254557&ouid=",
-    "klook.com":"aid=86027&aff_adid=1018601"
+    "klook.com":"aid=86027&aff_adid=1018601",
+    "viator.com": "pid=P00241711&mcid=42383&medium=link&campaign=homelink"
   },
   "rplce": {},
   "rmvq": {
@@ -199,6 +201,7 @@
     "sellcodes.com" : "https://sellcodes.com/s/io1hRj",
     "klook.com": "https://affiliate.klook.com/redirect?aid=86027&aff_adid=1018601&k_site=https%3A%2F%2Fwww.klook.com%2F",
     "expedia.com":"https://www.anrdoezrs.net/click-101372936-12639039",
-    "hotels.com":"https://www.kqzyfj.com/click-101372936-15042852"
+    "hotels.com":"https://www.kqzyfj.com/click-101372936-15042852",
+    "viator.com":"https://www.viator.com/?pid=P00241711&mcid=42383&medium=link&campaign=homelink"
   }
 }
