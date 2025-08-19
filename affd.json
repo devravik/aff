@@ -248,7 +248,13 @@
     "hotels.com",
     "www.hotels.com",
     "viator.com",
-    "www.viator.com"
+    "www.viator.com",
+    "crazydomains.com",
+    "www.crazydomains.com",
+    "oppo.com",
+    "www.oppo.com",
+    "titan.co.in",
+    "www.titan.co.in"
   ],
   "query_strings": [
     "affid=rk822827g",
@@ -456,7 +462,13 @@
     "",
     "",
     "pid=P00241711&mcid=42383&medium=link&campaign=homelink",
-    "pid=P00241711&mcid=42383&medium=link&campaign=homelink"
+    "pid=P00241711&mcid=42383&medium=link&campaign=homelink",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
   ],
   "replace_domain": {
     "www.flipkart.com": "www.flipkart.com",
@@ -608,6 +620,12 @@
     "hotels.com": "https://www.kqzyfj.com/click-101372936-15042852",
     "www.hotels.com": "https://www.kqzyfj.com/click-101372936-15042852",
     "viator.com": "https://www.viator.com/?pid=P00241711&mcid=42383&medium=link&campaign=homelink",
-    "www.viator.com": "https://www.viator.com/?pid=P00241711&mcid=42383&medium=link&campaign=homelink"
+    "www.viator.com": "https://www.viator.com/?pid=P00241711&mcid=42383&medium=link&campaign=homelink",
+    "crazydomains.com": "https://linksredirect.com/?cid=226556&source=linkkit&url=https%3A%2F%2Fwww.crazydomains.com%2F",
+    "www.crazydomains.com": "https://linksredirect.com/?cid=226556&source=linkkit&url=https%3A%2F%2Fwww.crazydomains.com%2F",
+    "oppo.com": "https://linksredirect.com/?cid=226556&source=linkkit&url=https%3A%2F%2Fwww.oppo.com%2Fin%2Fstore",
+    "www.oppo.com": "https://linksredirect.com/?cid=226556&source=linkkit&url=https%3A%2F%2Fwww.oppo.com%2Fin%2Fstore",
+    "titan.co.in": "https://linksredirect.com/?cid=226556&source=linkkit&url=https%3A%2F%2Fwww.titan.co.in%2F",
+    "www.titan.co.in": "https://linksredirect.com/?cid=226556&source=linkkit&url=https%3A%2F%2Fwww.titan.co.in%2F"
   }
 }
