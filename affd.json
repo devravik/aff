@@ -22,7 +22,7 @@
     "teamwork.com",
     "www.templatemonster.com",
     "templatemonster.com",
-    "graphpaperpress.com", 
+    "graphpaperpress.com",
     "linode.com",
     "www.linode.com",
     "upgrad.com",
@@ -254,7 +254,10 @@
     "oppo.com",
     "www.oppo.com",
     "titan.co.in",
-    "www.titan.co.in"
+    "www.titan.co.in",
+    "mercor.com",
+    "www.mercor.com",
+    "work.mercor.com"
   ],
   "query_strings": [
     "affid=rk822827g",
@@ -360,13 +363,6 @@
     "",
     "",
     "",
-    "",    
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",    
     "",
     "",
     "",
@@ -406,7 +402,14 @@
     "",
     "",
     "",
-    "",    
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
     "",
     "",
     "",
@@ -468,15 +471,24 @@
     "",
     "",
     "",
-    ""
+    "",
+    "referralCode=734c509b-df71-fdae-4d04-360d288fb77e&utm_campaign=platform&utm_medium=direct&utm_source=referral",
+    "referralCode=734c509b-df71-fdae-4d04-360d288fb77e&utm_campaign=platform&utm_medium=direct&utm_source=referral",
+    "referralCode=734c509b-df71-fdae-4d04-360d288fb77e&utm_campaign=platform&utm_medium=direct&utm_source=referral"
   ],
   "replace_domain": {
     "www.flipkart.com": "www.flipkart.com",
     "flipkart.com": "flipkart.com"
   },
   "remove_query": {
-    "www.flipkart.com": ["fm", "otracker"],
-    "flipkart.com": ["fm", "otracker"]
+    "www.flipkart.com": [
+      "fm",
+      "otracker"
+    ],
+    "flipkart.com": [
+      "fm",
+      "otracker"
+    ]
   },
   "redirect_domains": {
     "gsuite.google.com": "https://refergsuite.app.goo.gl/GUCG",
@@ -579,14 +591,14 @@
     "www.udemy.com": "https://linksredirect.com/?cid=191143&source=linkkit&url=https%3A%2F%2Fwww.udemy.com%2F",
     "bigrock.in": "https://clnk.in/tEsQ",
     "www.bigrock.in": "https://clnk.in/tEsQ",
-    "flipkart.com":"https://linksredirect.com/?cid=191143&source=linkkit&url=https%3A%2F%2Fwww.flipkart.com",
-    "www.flipkart.com":"https://linksredirect.com/?cid=191143&source=linkkit&url=https%3A%2F%2Fwww.flipkart.com",
+    "flipkart.com": "https://linksredirect.com/?cid=191143&source=linkkit&url=https%3A%2F%2Fwww.flipkart.com",
+    "www.flipkart.com": "https://linksredirect.com/?cid=191143&source=linkkit&url=https%3A%2F%2Fwww.flipkart.com",
     "ajio.com": "https://linksredirect.com/?cid=191143&source=linkkit&url=https%3A%2F%2Fwww.ajio.com%2F",
     "www.ajio.com": "https://linksredirect.com/?cid=191143&source=linkkit&url=https%3A%2F%2Fwww.ajio.com%2F",
     "retro-stage.com": "https://linksredirect.com/?cid=191143&source=linkkit&url=https%3A%2F%2Fwww.retro-stage.com%2F",
     "www.retro-stage.com": "https://linksredirect.com/?cid=191143&source=linkkit&url=https%3A%2F%2Fwww.retro-stage.com%2F",
-    "philips-hue.com":"https://linksredirect.com/?cid=191143&source=linkkit&url=https%3A%2F%2Fwww.philips-hue.com%2Fen-us",
-    "www.philips-hue.com":"https://linksredirect.com/?cid=191143&source=linkkit&url=https%3A%2F%2Fwww.philips-hue.com%2Fen-us",
+    "philips-hue.com": "https://linksredirect.com/?cid=191143&source=linkkit&url=https%3A%2F%2Fwww.philips-hue.com%2Fen-us",
+    "www.philips-hue.com": "https://linksredirect.com/?cid=191143&source=linkkit&url=https%3A%2F%2Fwww.philips-hue.com%2Fen-us",
     "extendedstayamerica.com": "https://linksredirect.com/?cid=191143&source=linkkit&url=https%3A%2F%2Fwww.extendedstayamerica.com%2F",
     "www.extendedstayamerica.com": "https://linksredirect.com/?cid=191143&source=linkkit&url=https%3A%2F%2Fwww.extendedstayamerica.com%2F",
     "tymobeauty.com": "https://linksredirect.com/?cid=191143&source=linkkit&url=https%3A%2F%2Ftymobeauty.com%2F",
@@ -605,8 +617,8 @@
     "www.target.com": "https://linksredirect.com/?cid=191143&source=linkkit&url=https%3A%2F%2Fwww.target.com",
     "ssls.com": "https://linksredirect.com/?cid=191143&source=linkkit&url=https%3A%2F%2Fwww.ssls.com%2F",
     "www.ssls.com": "https://linksredirect.com/?cid=191143&source=linkkit&url=https%3A%2F%2Fwww.ssls.com%2F",
-    "appsumo.com" : "https://linksredirect.com/?cid=191143&source=linkkit&url=https%3A%2F%2Fappsumo.com%2F",
-    "www.appsumo.com" : "https://linksredirect.com/?cid=191143&source=linkkit&url=https%3A%2F%2Fappsumo.com%2F",
+    "appsumo.com": "https://linksredirect.com/?cid=191143&source=linkkit&url=https%3A%2F%2Fappsumo.com%2F",
+    "www.appsumo.com": "https://linksredirect.com/?cid=191143&source=linkkit&url=https%3A%2F%2Fappsumo.com%2F",
     "igpcom": "https://linksredirect.com/?cid=191143&source=linkkit&url=https%3A%2F%2Fwww.igp.com%2F",
     "www.igpcom": "https://linksredirect.com/?cid=191143&source=linkkit&url=https%3A%2F%2Fwww.igp.com%2F",
     "socialcatfish.com": "https://linksredirect.com/?cid=191143&source=linkkit&url=https%3A%2F%2Fsocialcatfish.com%2F",
@@ -626,6 +638,8 @@
     "oppo.com": "https://linksredirect.com/?cid=226556&source=linkkit&url=https%3A%2F%2Fwww.oppo.com%2Fin%2Fstore",
     "www.oppo.com": "https://linksredirect.com/?cid=226556&source=linkkit&url=https%3A%2F%2Fwww.oppo.com%2Fin%2Fstore",
     "titan.co.in": "https://linksredirect.com/?cid=226556&source=linkkit&url=https%3A%2F%2Fwww.titan.co.in%2F",
-    "www.titan.co.in": "https://linksredirect.com/?cid=226556&source=linkkit&url=https%3A%2F%2Fwww.titan.co.in%2F"
+    "www.titan.co.in": "https://linksredirect.com/?cid=226556&source=linkkit&url=https%3A%2F%2Fwww.titan.co.in%2F",
+    "mercor.com": "https://t.mercor.com/Vbkok",
+    "www.mercor.com": "https://t.mercor.com/Vbkok"
   }
 }
