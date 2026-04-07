@@ -257,7 +257,9 @@
     "www.titan.co.in",
     "mercor.com",
     "www.mercor.com",
-    "work.mercor.com"
+    "work.mercor.com",
+    "gumroad.com",
+    "www.gumroad.com"
   ],
   "query_strings": [
     "affid=rk822827g",
@@ -474,7 +476,9 @@
     "",
     "referralCode=734c509b-df71-fdae-4d04-360d288fb77e&utm_campaign=platform&utm_medium=direct&utm_source=referral",
     "referralCode=734c509b-df71-fdae-4d04-360d288fb77e&utm_campaign=platform&utm_medium=direct&utm_source=referral",
-    "referralCode=734c509b-df71-fdae-4d04-360d288fb77e&utm_campaign=platform&utm_medium=direct&utm_source=referral"
+    "referralCode=734c509b-df71-fdae-4d04-360d288fb77e&utm_campaign=platform&utm_medium=direct&utm_source=referral",
+    "a=16604051",
+    "a=16604051"
   ],
   "replace_domain": {
     "www.flipkart.com": "www.flipkart.com",
@@ -640,6 +644,8 @@
     "titan.co.in": "https://linksredirect.com/?cid=226556&source=linkkit&url=https%3A%2F%2Fwww.titan.co.in%2F",
     "www.titan.co.in": "https://linksredirect.com/?cid=226556&source=linkkit&url=https%3A%2F%2Fwww.titan.co.in%2F",
     "mercor.com": "https://t.mercor.com/Vbkok",
-    "www.mercor.com": "https://t.mercor.com/Vbkok"
+    "www.mercor.com": "https://t.mercor.com/Vbkok",
+    "gumroad.com": "https://gumroad.com/discover?a=16604051",
+    "www.gumroad.com": "https://gumroad.com/discover?a=16604051"
   }
 }

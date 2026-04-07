@@ -96,7 +96,8 @@
     "crazydomains.com",
     "oppo.com",
     "titan.co.in",
-    "mercor.com"
+    "mercor.com",
+    "gumroad.com"
   ],
   "qrsts": {
     "flipkart.com": "affid=rk822827g",
@@ -121,7 +122,8 @@
     "trip.com": "Allianceid=3850446&SID=22254557&ouid=",
     "klook.com": "aid=86027&aff_adid=1018601",
     "viator.com": "pid=P00241711&mcid=42383&medium=link&campaign=homelink",
-    "mercor.com": "referralCode=734c509b-df71-fdae-4d04-360d288fb77e&utm_campaign=platform&utm_medium=direct&utm_source=referral"
+    "mercor.com": "referralCode=734c509b-df71-fdae-4d04-360d288fb77e&utm_campaign=platform&utm_medium=direct&utm_source=referral",
+    "gumroad.com": "a=16604051"
   },
   "rplce": {},
   "rmvq": {
@@ -214,6 +216,7 @@
     "crazydomains.com": "https://linksredirect.com/?cid=226556&source=linkkit&url=https%3A%2F%2Fwww.crazydomains.com%2F",
     "oppo.com": "https://linksredirect.com/?cid=226556&source=linkkit&url=https%3A%2F%2Fwww.oppo.com%2Fin%2Fstore",
     "titan.co.in": "https://linksredirect.com/?cid=226556&source=linkkit&url=https%3A%2F%2Fwww.titan.co.in%2F",
-    "mercor.com": "https://t.mercor.com/Vbkok"
+    "mercor.com": "https://t.mercor.com/Vbkok",
+    "gumroad.com": "https://gumroad.com/discover?a=16604051"
   }
 }
