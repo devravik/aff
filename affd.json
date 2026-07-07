@@ -259,7 +259,9 @@
     "www.mercor.com",
     "work.mercor.com",
     "gumroad.com",
-    "www.gumroad.com"
+    "www.gumroad.com",
+    "massedcompute.com",
+    "vm.massedcompute.com"
   ],
   "query_strings": [
     "affid=rk822827g",
@@ -478,7 +480,9 @@
     "referralCode=734c509b-df71-fdae-4d04-360d288fb77e&utm_campaign=platform&utm_medium=direct&utm_source=referral",
     "referralCode=734c509b-df71-fdae-4d04-360d288fb77e&utm_campaign=platform&utm_medium=direct&utm_source=referral",
     "a=16604051",
-    "a=16604051"
+    "a=16604051",
+    "referral=dfOB8yjwRJ",
+    "referral=dfOB8yjwRJ"
   ],
   "replace_domain": {
     "www.flipkart.com": "www.flipkart.com",
@@ -646,6 +650,9 @@
     "mercor.com": "https://t.mercor.com/Vbkok",
     "www.mercor.com": "https://t.mercor.com/Vbkok",
     "gumroad.com": "https://gumroad.com/discover?a=16604051",
-    "www.gumroad.com": "https://gumroad.com/discover?a=16604051"
+    "www.gumroad.com": "https://gumroad.com/discover?a=16604051",
+    "massedcompute.com": "https://vm.massedcompute.com/signup?referral=dfOB8yjwRJ",
+    "www.massedcompute.com": "https://vm.massedcompute.com/signup?referral=dfOB8yjwRJ",
+    "vm.massedcompute.com": "https://vm.massedcompute.com/signup?referral=dfOB8yjwRJ"
   }
 }

@@ -97,7 +97,9 @@
     "oppo.com",
     "titan.co.in",
     "mercor.com",
-    "gumroad.com"
+    "gumroad.com",
+    "massedcompute.com",
+    "vm.massedcompute.com"
   ],
   "qrsts": {
     "flipkart.com": "affid=rk822827g",
@@ -123,7 +125,9 @@
     "klook.com": "aid=86027&aff_adid=1018601",
     "viator.com": "pid=P00241711&mcid=42383&medium=link&campaign=homelink",
     "mercor.com": "referralCode=734c509b-df71-fdae-4d04-360d288fb77e&utm_campaign=platform&utm_medium=direct&utm_source=referral",
-    "gumroad.com": "a=16604051"
+    "gumroad.com": "a=16604051",
+    "massedcompute.com": "referral=dfOB8yjwRJ",
+    "vm.massedcompute.com": "referral=dfOB8yjwRJ"
   },
   "rplce": {},
   "rmvq": {
@@ -217,6 +221,8 @@
     "oppo.com": "https://linksredirect.com/?cid=226556&source=linkkit&url=https%3A%2F%2Fwww.oppo.com%2Fin%2Fstore",
     "titan.co.in": "https://linksredirect.com/?cid=226556&source=linkkit&url=https%3A%2F%2Fwww.titan.co.in%2F",
     "mercor.com": "https://t.mercor.com/Vbkok",
-    "gumroad.com": "https://gumroad.com/discover?a=16604051"
+    "gumroad.com": "https://gumroad.com/discover?a=16604051",
+    "massedcompute.com": "https://vm.massedcompute.com/signup?referral=dfOB8yjwRJ",
+    "vm.massedcompute.com": "https://vm.massedcompute.com/signup?referral=dfOB8yjwRJ"
   }
 }
