@@ -99,7 +99,8 @@
     "mercor.com",
     "gumroad.com",
     "massedcompute.com",
-    "vm.massedcompute.com"
+    "vm.massedcompute.com",
+    "kimi.com"
   ],
   "qrsts": {
     "flipkart.com": "affid=rk822827g",
@@ -127,7 +128,8 @@
     "mercor.com": "referralCode=734c509b-df71-fdae-4d04-360d288fb77e&utm_campaign=platform&utm_medium=direct&utm_source=referral",
     "gumroad.com": "a=16604051",
     "massedcompute.com": "referral=dfOB8yjwRJ",
-    "vm.massedcompute.com": "referral=dfOB8yjwRJ"
+    "vm.massedcompute.com": "referral=dfOB8yjwRJ",
+    "kimi.com": "scenario=invite&from=share_poster&invitation_code=ASEY53"
   },
   "rplce": {},
   "rmvq": {
@@ -223,6 +225,7 @@
     "mercor.com": "https://t.mercor.com/Vbkok",
     "gumroad.com": "https://gumroad.com/discover?a=16604051",
     "massedcompute.com": "https://vm.massedcompute.com/signup?referral=dfOB8yjwRJ",
-    "vm.massedcompute.com": "https://vm.massedcompute.com/signup?referral=dfOB8yjwRJ"
+    "vm.massedcompute.com": "https://vm.massedcompute.com/signup?referral=dfOB8yjwRJ",
+    "kimi.com": "https://kimi-bot.com/activities/invite/share?scenario=invite&from=share_poster&invitation_code=ASEY53"
   }
 }
