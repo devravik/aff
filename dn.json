@@ -100,7 +100,8 @@
     "gumroad.com",
     "massedcompute.com",
     "vm.massedcompute.com",
-    "kimi.com"
+    "kimi.com",
+    "opencode.ai"
   ],
   "qrsts": {
     "flipkart.com": "affid=rk822827g",
@@ -129,7 +130,8 @@
     "gumroad.com": "a=16604051",
     "massedcompute.com": "referral=dfOB8yjwRJ",
     "vm.massedcompute.com": "referral=dfOB8yjwRJ",
-    "kimi.com": "scenario=invite&from=share_poster&invitation_code=ASEY53"
+    "kimi.com": "scenario=invite&from=share_poster&invitation_code=ASEY53",
+    "opencode.ai": "ref=DWPA0EVVPQ"
   },
   "rplce": {},
   "rmvq": {
@@ -226,6 +228,7 @@
     "gumroad.com": "https://gumroad.com/discover?a=16604051",
     "massedcompute.com": "https://vm.massedcompute.com/signup?referral=dfOB8yjwRJ",
     "vm.massedcompute.com": "https://vm.massedcompute.com/signup?referral=dfOB8yjwRJ",
-    "kimi.com": "https://kimi-bot.com/activities/invite/share?scenario=invite&from=share_poster&invitation_code=ASEY53"
+    "kimi.com": "https://kimi-bot.com/activities/invite/share?scenario=invite&from=share_poster&invitation_code=ASEY53",
+    "opencode.ai": "https://opencode.ai/go?ref=DWPA0EVVPQ"
   }
 }
