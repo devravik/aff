@@ -265,7 +265,12 @@
     "kimi.com",
     "www.kimi.com",
     "opencode.ai",
-    "www.opencode.ai"
+    "www.opencode.ai",
+    "runpod.io",
+    "www.runpod.io",
+    "vast.ai",
+    "cloud.vast.ai",
+    "www.vast.ai"
   ],
   "query_strings": [
     "affid=rk822827g",
@@ -490,7 +495,12 @@
     "scenario=invite&from=share_poster&invitation_code=ASEY53",
     "scenario=invite&from=share_poster&invitation_code=ASEY53",
     "ref=DWPA0EVVPQ",
-    "ref=DWPA0EVVPQ"
+    "ref=DWPA0EVVPQ",
+    "ref=tlusuzep",
+    "ref=tlusuzep",
+    "ref_id=644137",
+    "ref_id=644137",
+    "ref_id=644137"
   ],
   "replace_domain": {
     "www.flipkart.com": "www.flipkart.com",
@@ -665,6 +675,11 @@
     "kimi.com": "https://kimi-bot.com/activities/invite/share?scenario=invite&from=share_poster&invitation_code=ASEY53",
     "www.kimi.com": "https://kimi-bot.com/activities/invite/share?scenario=invite&from=share_poster&invitation_code=ASEY53",
     "opencode.ai": "https://opencode.ai/go?ref=DWPA0EVVPQ",
-    "www.opencode.ai": "https://opencode.ai/go?ref=DWPA0EVVPQ"
+    "www.opencode.ai": "https://opencode.ai/go?ref=DWPA0EVVPQ",
+    "runpod.io": "https://runpod.io?ref=tlusuzep",
+    "www.runpod.io": "https://runpod.io?ref=tlusuzep",
+    "vast.ai": "https://cloud.vast.ai/?ref_id=644137",
+    "cloud.vast.ai": "https://cloud.vast.ai/?ref_id=644137",
+    "www.vast.ai": "https://cloud.vast.ai/?ref_id=644137"
   }
 }

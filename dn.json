@@ -101,7 +101,10 @@
     "massedcompute.com",
     "vm.massedcompute.com",
     "kimi.com",
-    "opencode.ai"
+    "opencode.ai",
+    "runpod.io",
+    "vast.ai",
+    "cloud.vast.ai"
   ],
   "qrsts": {
     "flipkart.com": "affid=rk822827g",
@@ -131,7 +134,10 @@
     "massedcompute.com": "referral=dfOB8yjwRJ",
     "vm.massedcompute.com": "referral=dfOB8yjwRJ",
     "kimi.com": "scenario=invite&from=share_poster&invitation_code=ASEY53",
-    "opencode.ai": "ref=DWPA0EVVPQ"
+    "opencode.ai": "ref=DWPA0EVVPQ",
+    "runpod.io": "ref=tlusuzep",
+    "vast.ai": "ref_id=644137",
+    "cloud.vast.ai": "ref_id=644137"
   },
   "rplce": {},
   "rmvq": {
@@ -229,6 +235,9 @@
     "massedcompute.com": "https://vm.massedcompute.com/signup?referral=dfOB8yjwRJ",
     "vm.massedcompute.com": "https://vm.massedcompute.com/signup?referral=dfOB8yjwRJ",
     "kimi.com": "https://kimi-bot.com/activities/invite/share?scenario=invite&from=share_poster&invitation_code=ASEY53",
-    "opencode.ai": "https://opencode.ai/go?ref=DWPA0EVVPQ"
+    "opencode.ai": "https://opencode.ai/go?ref=DWPA0EVVPQ",
+    "runpod.io": "https://runpod.io?ref=tlusuzep",
+    "vast.ai": "https://cloud.vast.ai/?ref_id=644137",
+    "cloud.vast.ai": "https://cloud.vast.ai/?ref_id=644137"
   }
 }
