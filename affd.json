@@ -270,7 +270,9 @@
     "www.runpod.io",
     "vast.ai",
     "cloud.vast.ai",
-    "www.vast.ai"
+    "www.vast.ai",
+    "z.ai",
+    "www.z.ai"
   ],
   "query_strings": [
     "affid=rk822827g",
@@ -500,7 +502,9 @@
     "ref=tlusuzep",
     "ref_id=644137",
     "ref_id=644137",
-    "ref_id=644137"
+    "ref_id=644137",
+    "ic=LANOIQAJ8D",
+    "ic=LANOIQAJ8D"
   ],
   "replace_domain": {
     "www.flipkart.com": "www.flipkart.com",
@@ -680,6 +684,8 @@
     "www.runpod.io": "https://runpod.io?ref=tlusuzep",
     "vast.ai": "https://cloud.vast.ai/?ref_id=644137",
     "cloud.vast.ai": "https://cloud.vast.ai/?ref_id=644137",
-    "www.vast.ai": "https://cloud.vast.ai/?ref_id=644137"
+    "www.vast.ai": "https://cloud.vast.ai/?ref_id=644137",
+    "z.ai": "https://z.ai/subscribe?ic=LANOIQAJ8D",
+    "www.z.ai": "https://z.ai/subscribe?ic=LANOIQAJ8D"
   }
 }
