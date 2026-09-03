@@ -105,7 +105,10 @@
     "runpod.io",
     "vast.ai",
     "cloud.vast.ai",
-    "z.ai"
+    "z.ai",
+    "eromify.com",
+    "b.ai",
+    "chat.b.ai"
   ],
   "qrsts": {
     "flipkart.com": "affid=rk822827g",
@@ -139,7 +142,10 @@
     "runpod.io": "ref=tlusuzep",
     "vast.ai": "ref_id=644137",
     "cloud.vast.ai": "ref_id=644137",
-    "z.ai": "ic=LANOIQAJ8D"
+    "z.ai": "ic=LANOIQAJ8D",
+    "eromify.com": "fpr=ravi-c56a64",
+    "b.ai": "invite_code=29K6BD",
+    "chat.b.ai": "invite_code=29K6BD"
   },
   "rplce": {},
   "rmvq": {
@@ -241,6 +247,9 @@
     "runpod.io": "https://runpod.io?ref=tlusuzep",
     "vast.ai": "https://cloud.vast.ai/?ref_id=644137",
     "cloud.vast.ai": "https://cloud.vast.ai/?ref_id=644137",
-    "z.ai": "https://z.ai/subscribe?ic=LANOIQAJ8D"
+    "z.ai": "https://z.ai/subscribe?ic=LANOIQAJ8D",
+    "eromify.com": "https://eromify.com?fpr=ravi-c56a64",
+    "b.ai": "https://chat.b.ai/chat?invite_code=29K6BD",
+    "chat.b.ai": "https://chat.b.ai/chat?invite_code=29K6BD"
   }
 }

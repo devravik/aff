@@ -272,7 +272,12 @@
     "cloud.vast.ai",
     "www.vast.ai",
     "z.ai",
-    "www.z.ai"
+    "www.z.ai",
+    "eromify.com",
+    "www.eromify.com",
+    "b.ai",
+    "chat.b.ai",
+    "www.b.ai"
   ],
   "query_strings": [
     "affid=rk822827g",
@@ -504,7 +509,12 @@
     "ref_id=644137",
     "ref_id=644137",
     "ic=LANOIQAJ8D",
-    "ic=LANOIQAJ8D"
+    "ic=LANOIQAJ8D",
+    "fpr=ravi-c56a64",
+    "fpr=ravi-c56a64",
+    "invite_code=29K6BD",
+    "invite_code=29K6BD",
+    "invite_code=29K6BD"
   ],
   "replace_domain": {
     "www.flipkart.com": "www.flipkart.com",
@@ -686,6 +696,11 @@
     "cloud.vast.ai": "https://cloud.vast.ai/?ref_id=644137",
     "www.vast.ai": "https://cloud.vast.ai/?ref_id=644137",
     "z.ai": "https://z.ai/subscribe?ic=LANOIQAJ8D",
-    "www.z.ai": "https://z.ai/subscribe?ic=LANOIQAJ8D"
+    "www.z.ai": "https://z.ai/subscribe?ic=LANOIQAJ8D",
+    "eromify.com": "https://eromify.com?fpr=ravi-c56a64",
+    "www.eromify.com": "https://eromify.com?fpr=ravi-c56a64",
+    "b.ai": "https://chat.b.ai/chat?invite_code=29K6BD",
+    "chat.b.ai": "https://chat.b.ai/chat?invite_code=29K6BD",
+    "www.b.ai": "https://chat.b.ai/chat?invite_code=29K6BD"
   }
 }
