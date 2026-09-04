@@ -277,7 +277,10 @@
     "www.eromify.com",
     "b.ai",
     "chat.b.ai",
-    "www.b.ai"
+    "www.b.ai",
+    "elevenlabs.io",
+    "try.elevenlabs.io",
+    "www.elevenlabs.io"
   ],
   "query_strings": [
     "affid=rk822827g",
@@ -701,6 +704,9 @@
     "www.eromify.com": "https://eromify.com?fpr=ravi-c56a64",
     "b.ai": "https://chat.b.ai/chat?invite_code=29K6BD",
     "chat.b.ai": "https://chat.b.ai/chat?invite_code=29K6BD",
-    "www.b.ai": "https://chat.b.ai/chat?invite_code=29K6BD"
+    "www.b.ai": "https://chat.b.ai/chat?invite_code=29K6BD",
+    "elevenlabs.io": "https://try.elevenlabs.io/nzp8ooctqfsf",
+    "try.elevenlabs.io": "https://try.elevenlabs.io/nzp8ooctqfsf",
+    "www.elevenlabs.io": "https://try.elevenlabs.io/nzp8ooctqfsf"
   }
 }

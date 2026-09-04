@@ -108,7 +108,10 @@
     "z.ai",
     "eromify.com",
     "b.ai",
-    "chat.b.ai"
+    "chat.b.ai",
+    "elevenlabs.io",
+    "try.elevenlabs.io",
+    "www.elevenlabs.io"
   ],
   "qrsts": {
     "flipkart.com": "affid=rk822827g",
@@ -250,6 +253,9 @@
     "z.ai": "https://z.ai/subscribe?ic=LANOIQAJ8D",
     "eromify.com": "https://eromify.com?fpr=ravi-c56a64",
     "b.ai": "https://chat.b.ai/chat?invite_code=29K6BD",
-    "chat.b.ai": "https://chat.b.ai/chat?invite_code=29K6BD"
+    "chat.b.ai": "https://chat.b.ai/chat?invite_code=29K6BD",
+    "elevenlabs.io": "https://try.elevenlabs.io/nzp8ooctqfsf",
+    "try.elevenlabs.io": "https://try.elevenlabs.io/nzp8ooctqfsf",
+    "www.elevenlabs.io": "https://try.elevenlabs.io/nzp8ooctqfsf"
   }
 }
