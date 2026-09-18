@@ -111,7 +111,8 @@
     "chat.b.ai",
     "elevenlabs.io",
     "try.elevenlabs.io",
-    "www.elevenlabs.io"
+    "www.elevenlabs.io",
+    "portal.nousresearch.com"
   ],
   "qrsts": {
     "flipkart.com": "affid=rk822827g",
@@ -256,6 +257,7 @@
     "chat.b.ai": "https://chat.b.ai/chat?invite_code=29K6BD",
     "elevenlabs.io": "https://try.elevenlabs.io/nzp8ooctqfsf",
     "try.elevenlabs.io": "https://try.elevenlabs.io/nzp8ooctqfsf",
-    "www.elevenlabs.io": "https://try.elevenlabs.io/nzp8ooctqfsf"
+    "www.elevenlabs.io": "https://try.elevenlabs.io/nzp8ooctqfsf",
+    "portal.nousresearch.com": "https://portal.nousresearch.com/r/ravi-k"
   }
 }
