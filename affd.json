@@ -3422,7 +3422,9 @@
     "trip.com",
     "www.trip.com",
     "higgsfield.ai",
-    "www.higgsfield.ai"
+    "www.higgsfield.ai",
+    "trafficguard.ai",
+    "www.trafficguard.ai"
   ],
   "query_strings": [
     "affid=rk822827g",
@@ -6847,7 +6849,9 @@
     "Allianceid=3850446&SID=22254557&ouid=",
     "Allianceid=3850446&SID=22254557&ouid=",
     "fpr=ravi-fe5a5d",
-    "fpr=ravi-fe5a5d"
+    "fpr=ravi-fe5a5d",
+    "_get=7fpcas",
+    "_get=7fpcas"
   ],
   "replace_domain": {
     "www.flipkart.com": "www.flipkart.com",
@@ -10180,6 +10184,8 @@
     "trip.com": "https://www.trip.com/?Allianceid=3850446&SID=22254557&ouid=",
     "www.trip.com": "https://www.trip.com/?Allianceid=3850446&SID=22254557&ouid=",
     "higgsfield.ai": "https://higgsfield.ai?fpr=ravi-fe5a5d",
-    "www.higgsfield.ai": "https://higgsfield.ai?fpr=ravi-fe5a5d"
+    "www.higgsfield.ai": "https://higgsfield.ai?fpr=ravi-fe5a5d",
+    "trafficguard.ai": "https://www.trafficguard.ai/google-search?_get=7fpcas",
+    "www.trafficguard.ai": "https://www.trafficguard.ai/google-search?_get=7fpcas"
   }
 }
