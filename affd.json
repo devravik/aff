@@ -3420,7 +3420,9 @@
     "contabo.com",
     "www.contabo.com",
     "trip.com",
-    "www.trip.com"
+    "www.trip.com",
+    "higgsfield.ai",
+    "www.higgsfield.ai"
   ],
   "query_strings": [
     "affid=rk822827g",
@@ -6843,7 +6845,9 @@
     "",
     "",
     "Allianceid=3850446&SID=22254557&ouid=",
-    "Allianceid=3850446&SID=22254557&ouid="
+    "Allianceid=3850446&SID=22254557&ouid=",
+    "fpr=ravi-fe5a5d",
+    "fpr=ravi-fe5a5d"
   ],
   "replace_domain": {
     "www.flipkart.com": "www.flipkart.com",
@@ -10174,6 +10178,8 @@
     "dhgate.com": "http://sale.dhgate.com/iahSgR49",
     "www.dhgate.com": "http://sale.dhgate.com/iahSgR49",
     "trip.com": "https://www.trip.com/?Allianceid=3850446&SID=22254557&ouid=",
-    "www.trip.com": "https://www.trip.com/?Allianceid=3850446&SID=22254557&ouid="
+    "www.trip.com": "https://www.trip.com/?Allianceid=3850446&SID=22254557&ouid=",
+    "higgsfield.ai": "https://higgsfield.ai?fpr=ravi-fe5a5d",
+    "www.higgsfield.ai": "https://higgsfield.ai?fpr=ravi-fe5a5d"
   }
 }
