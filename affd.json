@@ -4000,7 +4000,9 @@
     "spylix.com",
     "www.spylix.com",
     "st-asu.com",
-    "www.st-asu.com"
+    "www.st-asu.com",
+    "odoo.com",
+    "www.odoo.com"
   ],
   "query_strings": [
     "affid=rk822827g",
@@ -7442,6 +7444,8 @@
     "aff=Lbwc0oV1",
     "aff=p0OzDTC",
     "aff=p0OzDTC",
+    "",
+    "",
     "",
     "",
     "",
@@ -11918,6 +11922,8 @@
     "spylix.com": "https://wwwspylixcom.sjv.io/c/1329263/2136959/27186?subId1=aff",
     "www.spylix.com": "https://wwwspylixcom.sjv.io/c/1329263/2136959/27186?subId1=aff",
     "st-asu.com": "https://stasupteltd.sjv.io/c/1329263/2375998/29798?subId1=aff",
-    "www.st-asu.com": "https://stasupteltd.sjv.io/c/1329263/2375998/29798?subId1=aff"
+    "www.st-asu.com": "https://stasupteltd.sjv.io/c/1329263/2375998/29798?subId1=aff",
+    "odoo.com": "https://www.odoo.com/r/aff-odoo3b",
+    "www.odoo.com": "https://www.odoo.com/r/aff-odoo3b"
   }
 }

@@ -1971,7 +1971,8 @@
     "centarahotelsresorts.com",
     "rakuten.com",
     "spylix.com",
-    "st-asu.com"
+    "st-asu.com",
+    "odoo.com"
   ],
   "qrsts": {
     "flipkart.com": "affid=rk822827g",
@@ -3998,6 +3999,7 @@
     "centarahotelsresorts.com": "https://centarahotelsresorts.pxf.io/c/1329263/1723488/20035?subId1=aff",
     "rakuten.com": "https://rakutentravelexperiences.sjv.io/c/1329263/1905086/22812?subId1=aff",
     "spylix.com": "https://wwwspylixcom.sjv.io/c/1329263/2136959/27186?subId1=aff",
-    "st-asu.com": "https://stasupteltd.sjv.io/c/1329263/2375998/29798?subId1=aff"
+    "st-asu.com": "https://stasupteltd.sjv.io/c/1329263/2375998/29798?subId1=aff",
+    "odoo.com": "https://www.odoo.com/r/aff-odoo3b"
   }
 }
